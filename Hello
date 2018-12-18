@@ -2,7 +2,8 @@
 
 int main(void)
 {
-	printf("Hello world!! first\n");
 	printf("Local Insert commit\n");
 
+	for(int i=0; i <3; i++)
+		printf("%d\n", i );
 }
